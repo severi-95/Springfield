@@ -1,3 +1,4 @@
-Tervetuloa Springfieldiin
+Tervetuloa Springfieldiin.
 Homer lives here.
 Moe owns the tavern.
+Hello everyone.
